@@ -17,7 +17,8 @@ I build AI systems that run unattended in production — research agents, RAG pi
 
 ## Experience
 
-- 15+ years across software engineering, enterprise consulting (Infosys, Huawei projects), and quantitative finance
+- **Query-Web3** — product manager; AI-powered information service platform in the Polkadot ecosystem
+- 15+ years across software engineering, product management, enterprise consulting (Infosys, Huawei projects), and quantitative finance
 - MBA (ECUST) · MSc Economics & Quantitative Finance (SUFE)
 
 ## Currently
