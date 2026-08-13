@@ -7,6 +7,7 @@ I build AI systems that run unattended in production — research agents, RAG pi
 ## Featured work
 
 - **[rag-with-receipts](https://github.com/lechangxu/rag-with-receipts)** — a RAG service where every answer must show its source, sentence by sentence, or get flagged. Runtime citation verification + an eval harness that ships in the repo. Runs keyless in 5 minutes; 15 tests, CI-green.
+- **[finnews-extractor](https://github.com/lechangxu/finnews-extractor)** — Chinese financial news → structured events, with source grounding verified independently of the model: every extraction span and attribute value is re-located in the original text, or flagged as a hallucination. Golden fixture from a real LLM run; 16 tests, CI-green, keyless.
 - **[quant-research-portfolio](https://github.com/lechangxu/quant-research-portfolio)** — methodology from production systematic trading: a live-vs-backtest divergence audit (including a risk overlay that silently locked 86.8% of out-of-sample paths), a four-threshold factor acceptance gate, and a negative-results log — plus a tested mini-framework implementing the gate.
 
 ## What I work on
@@ -23,4 +24,4 @@ I build AI systems that run unattended in production — research agents, RAG pi
 
 ## Currently
 
-Building autonomous research & trading infrastructure. Most of my active work lives in private repositories — the two pinned projects above are the public, runnable evidence of how I build.
+Building autonomous research & trading infrastructure. Most of my active work lives in private repositories — the pinned projects above are the public, runnable evidence of how I build.
