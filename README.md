@@ -2,6 +2,8 @@
 
 **AI Agent Systems · Quantitative Research · Workflow Automation**
 
+If you find my work useful, you can support me via [Afdian](https://afdian.com/a/aiyangu).
+
 I build AI systems that run unattended in production — research agents, RAG pipelines, and quantitative trading infrastructure — and I publish the proof.
 
 ## Featured work
