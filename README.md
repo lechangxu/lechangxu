@@ -2,8 +2,6 @@
 
 **AI Agent Systems · Quantitative Research · Workflow Automation**
 
-If you find my work useful, you can support me via [Afdian](https://afdian.com/a/aiyangu).
-
 I build AI systems that run unattended in production — research agents, RAG pipelines, and quantitative trading infrastructure — and I publish the proof.
 
 ## Featured work
@@ -22,7 +20,7 @@ I build AI systems that run unattended in production — research agents, RAG pi
 
 - **Query-Web3** — product manager; AI-powered information service platform in the Polkadot ecosystem
 - 15+ years across software engineering, product management, enterprise consulting (Infosys, Huawei projects), and quantitative finance
-- MBA (ECUST) · MSc Economics & Quantitative Finance (SUFE)
+- MBA (ECUST) · Master's degree in Economic Philosophy (SUFE)
 
 ## Currently
 
