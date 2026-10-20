@@ -9,6 +9,12 @@ I build AI systems that run unattended in production — research agents, RAG pi
 - **[rag-with-receipts](https://github.com/lechangxu/rag-with-receipts)** — a RAG service where every answer must show its source, sentence by sentence, or get flagged. Runtime citation verification + an eval harness that ships in the repo. Runs keyless in 5 minutes; 15 tests, CI-green.
 - **[finnews-extractor](https://github.com/lechangxu/finnews-extractor)** — Chinese financial news → structured events, with source grounding verified independently of the model: every extraction span and attribute value is re-located in the original text, or flagged as a hallucination. Golden fixture from a real LLM run; 16 tests, CI-green, keyless.
 - **[quant-research-portfolio](https://github.com/lechangxu/quant-research-portfolio)** — methodology from production systematic trading: a live-vs-backtest divergence audit (including a risk overlay that silently locked 86.8% of out-of-sample paths), a four-threshold factor acceptance gate, and a negative-results log — plus a tested mini-framework implementing the gate.
+- **[Query-Web3](https://github.com/Query-Web3)** — product manager for a Polkadot-ecosystem BI + AI data platform funded by the Web3 Foundation: 0→1 from requirements and PRD through UI prototypes to milestone acceptance. Milestone 1 — data indexer, data model and admin backend — passed the foundation's review, and the team's shipped code is public under the org.
+
+## Production systems (demo on request)
+
+- **Market-intelligence data service for AI agents** — a production MCP service that answers agent queries over a continuously collected market dataset, returning context and percentile history rather than raw numbers alone. Source is private. Demo available on request.
+- **ReadLeap** — an AI-graded English reading product: adaptive vocabulary assessment, leveled generation, and spaced review. The PRD went through many revisions and the product runs in closed beta. Source is private. Demo available on request.
 
 ## What I work on
 
@@ -19,9 +25,9 @@ I build AI systems that run unattended in production — research agents, RAG pi
 ## Experience
 
 - **Query-Web3** — product manager; AI-powered information service platform in the Polkadot ecosystem
-- 15+ years across software engineering, product management, enterprise consulting (Infosys, Huawei projects), and quantitative finance
+- 20 years across software engineering, product management, enterprise consulting (insurance, banking, and large-scale BI transformation programmes), and quantitative finance
 - MBA (ECUST) · Master's degree in Economic Philosophy (SUFE)
 
 ## Currently
 
-Building autonomous research & trading infrastructure. Most of my active work lives in private repositories — the pinned projects above are the public, runnable evidence of how I build.
+Building autonomous research & trading infrastructure. Most of my active work lives in private repositories — the pinned projects above are the public, runnable evidence of how I build, and where a system cannot be public I am glad to show it live instead.
